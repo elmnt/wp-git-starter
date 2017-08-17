@@ -9,11 +9,11 @@ This is a starting point for my WordPress + Git workflow. It makes use of the ve
 **Clone the repo**
 
 ```
-git clone [this repo] my-site/
+git clone [this repo] my-site
 ```
 
 ```
-cd my-site/
+cd my-site
 ```
 
 **Install the dependencies**
